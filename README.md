@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/eleveyuan/count.svg" />
+</p>
+
+[![eleveyuan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=eleveyuan&show_icons=true)](https://github.com/eleveyuan)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eleveyuan&show_icons=true)
