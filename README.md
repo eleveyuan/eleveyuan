@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-
+<p>
 <img width="50%" align="left" src="https://github-readme-stats.vercel.app/api?username=eleveyuan&show_icons=true&hide_border=true" />
 <img align="right" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnFzeHVqZ21seDVtYWhxaTV1MXZyZDhrajFpcGNpbTY2ajY0YjFpdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZVik7pBtu9dNS/giphy.gif" alt="Life Code GIF" width="50%">
+</p>
