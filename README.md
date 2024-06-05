@@ -15,11 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/eleveyuan/count.svg" />
-</p>
 
-[![eleveyuan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=eleveyuan&show_icons=true)](https://github.com/eleveyuan)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eleveyuan&show_icons=true)
+<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=eleveyuan&show_icons=true&hide_border=true" />
+<img class="giphy-gif-img giphy-img-loaded" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnFzeHVqZ21seDVtYWhxaTV1MXZyZDhrajFpcGNpbTY2ajY0YjFpdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZVik7pBtu9dNS/giphy.gif" style="background:rgba(0,0,0,0)" width="100%" height="100%" alt="Life Code GIF">
